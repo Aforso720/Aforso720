@@ -53,6 +53,5 @@
 - Email: [alaudinovis@mail.ru](mailto:alaudinovis@mail.ru)  
 - Телефон: +7 (938) 019-05-28  
 - Telegram: [@Aforso](https://t.me/Aforso)
-- Линк на резюме (если хочешь прикрепить PDF): 
 
 ---
