@@ -10,7 +10,7 @@
 
 ### 🧠 Немного обо мне
 
-- 🎯 Миддл фронтенд-разработчик с **2.5 годами опыта** в разработке масштабируемых веб-приложений
+- 🎯 Миддл фронтенд-разработчик с **3 годами опыта** в разработке масштабируемых веб-приложений
 - 🛠 Стэк: React, TypeScript, Next.js, Redux, Zustand, GraphQL, REST API
 - 📈 Люблю оптимизировать, автоматизировать и делать UI не только красивым, но и быстрым
 - 🧩 Опыт в разработке **реального времени (WebSockets)**, **мобильных приложений (React Native)** и **микро-фронтендов (Vue.js)**
@@ -35,17 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>
 </p>
-
----
-
-### 📈 Статистика GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aforso720&show_icons=true&theme=radical&hide=contribs,prs" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aforso720&theme=radical" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### 📫 Контакты
